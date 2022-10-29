@@ -8,4 +8,19 @@ p{
     font-size: 18px;
 }
 span{
-    color:chartreuse;
+    color:chartreuse;}
+    section{
+        display: flex;
+    
+    }
+    .me{
+        width: 50%;
+        padding-left: 30px;
+
+    }
+    .me img{
+        width: 480px;
+    }
+    .me h1 h3 p {
+        padding-left: 20px;
+    }
