@@ -21,6 +21,15 @@ span{
     .me img{
         width: 480px;
     }
-    .me h1 h3 p {
+    .me h1  {
         padding-left: 20px;
+    }
+    .me p{
+        padding-left: 20px;
+    }
+    .me h3{
+        padding-left: 020px;
+    }
+    .me a{
+        padding-left: 25px;
     }
