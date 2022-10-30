@@ -11,7 +11,7 @@ p{
 }
 span{
     color:chartreuse;}
-    section{
+    .flexible-container{
         display: flex;
         margin-bottom: 100px;
     
@@ -38,7 +38,8 @@ span{
     }
     .link-button{
         text-decoration: none;
-   background-color:  orange;
+  background-color: #d87093;
+
    background-image: linear-gradient(orange red);
         padding:  10px 20px;
        border-radius: 7.5px;
@@ -55,3 +56,41 @@ span{
         background-repeat: no-repeat;
         background-position: right;
     }
+   
+        
+    
+    .pro-me{
+        color: #d87093;
+    }
+    .half-width{
+       margin-left: 25px;
+       margin-right: 15px;
+      padding-left: 19px;
+      padding-right: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+       box-shadow: 10px 15px 20px 10px orange;
+     
+    }
+   
+   .experience-area{
+    background-image:url(pic/bac.png);
+    background-repeat: no-repeat;
+    background-position: 29px left
+    ;
+    background-size: 190px;
+   }
+   #full-thing{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange red);
+    border-image-slice:  1;
+   }
+   #yap-yap{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange red);
+    border-image-slice:  1;
+    border-color: aqua;
+   }   
+   footer p{
+    text-align: center;
+   }
