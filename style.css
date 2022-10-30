@@ -46,6 +46,12 @@ span{
         color: blue;
     }
     .top-banner{
-        background-image: url(pic/circle.png);
+    background-image: url(pic/tyy.jpg);
        background-repeat: no-repeat;
+    }
+    .dream-big{
+
+        background-image: url(pic/half\ circle.png);
+        background-repeat: no-repeat;
+        background-position: right;
     }
